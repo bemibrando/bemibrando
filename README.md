@@ -17,8 +17,8 @@
 <div align="center">
   <br>
   <a href="https://github.com/bemibrando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bemibrando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemibrando&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bemibrando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemibrando&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   
 <!-- [Knowledge] -->  
@@ -35,11 +35,11 @@
 <!-- [SocialMedias] -->
 <div>
     <br>
-  <img align="right" alt="Roger Roger" height="76rem" src="https://media.giphy.com/media/xT9DPr4VjeCgeiLoMo/giphy.gif">
   <a href="https://twitter.com/bemibrando" target="_blank"><img  align="right" height="44rem" alt="twitter" src="https://img.icons8.com/color/96/000000/twitter-squared.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bianca-emi/" target="_blank"><img align="right" height="44rem" alt="linkedin" src="https://img.icons8.com/color/96/000000/linkedin.png" target="_blank"/></a>
   <!-- [GitHub Troohy] -->
   <div align="center">
     <img style="vertical-align:bottom float:center" height="110rem" src="https://github-profile-trophy.vercel.app/?username=bemibrando&theme=algolia&rank=S,AAA,AA,A,B,C,SECRET,UNKNOWN" /> 
   </div>
+  <img align="right" alt="Roger Roger" height="76rem" src="https://media.giphy.com/media/xT9DPr4VjeCgeiLoMo/giphy.gif">
 </div>
