@@ -16,7 +16,6 @@
 <!-- [GitHub Stats] -->
 <div align="center">
   <br>
-  <a href="https://github.com/bemibrando">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bemibrando&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemibrando&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
