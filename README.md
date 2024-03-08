@@ -3,10 +3,15 @@
 
 <div style="display: inline_block">
   <div>
-    <br>- 🔭 I’m currently looking to be hired!
+   
+   <!---
+    <br>- 🔭 I’m currently looking to be hired!    
+   ---!>
     <br>- 🌱 I’m improving my knowledge about Data Engineer!
+   <!---
     <br>- 👯 I’m looking to be a Machine Learning Engineer! 
     <br>- 🤔 I’m looking for help with finding a Job!
+   ---!>
     <br>- 📫 How to reach me: <a href="https://www.linkedin.com/in/bianca-emi/" target="_blank">LinkedIn</a>
     <br>- 😄 Pronouns: She/Her
     <br>- ⚡ Fun fact: :speaking_head: :jp: :brazil: :us:
